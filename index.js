@@ -13,3 +13,4 @@ const height = 1.75;
 const bmi = weight / (height * height);
 
 console.log("Your BMI is:", bmi);
+// check commit from other device
