@@ -66,3 +66,14 @@ concat string,
 
 get the general idea.
 when left to right and when right to left?
+
+# 011 Strings and template literals
+
+Why should we need to use template literals?
+How to add variable in template literals?
+
+# 014 if else statement
+
+how we use if else?
+
+# 016 type conversion and coercion
