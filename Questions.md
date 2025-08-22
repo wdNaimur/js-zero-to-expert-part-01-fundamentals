@@ -77,3 +77,13 @@ How to add variable in template literals?
 how we use if else?
 
 # 016 type conversion and coercion
+
+what can we convert? from number to string, string to number, boolean to number. or string?
+
+when an operator is dealing with 2 different type type of values. then js converts one of the value to do the operation.
+
+# 017 Truthy and Falsy value
+
+we use Boolean(value) to make truthy and falsy value.
+5 falsy value 0, "" , undefined, null, NaN.
+all numbers are truthy value including -ve number.

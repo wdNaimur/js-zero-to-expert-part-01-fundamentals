@@ -37,6 +37,7 @@ console.log(Number("42")); //number 42
 console.log(Number("42px")); //Nan
 console.log(Number(true)); //1
 console.log(Number(false)); //0
+console.log(typeof NaN); //gives number.
 //sting
 console.log(String(100 + 23)); //sting
 console.log("100" + 23); //10023
